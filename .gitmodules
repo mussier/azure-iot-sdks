@@ -1,12 +1,9 @@
 [submodule "c/azure-c-shared-utility"]
 	path = c/azure-c-shared-utility
 	url = https://github.com/mussier/azure-c-shared-utility.git
-	branch = enable_gcc4.4
 [submodule "c/azure-umqtt-c"]
 	path = c/azure-umqtt-c
 	url = https://github.com/mussier/azure-umqtt-c.git
-	branch = enable_gcc4.4
 [submodule "c/azure-uamqp-c"]
 	path = c/azure-uamqp-c
 	url = https://github.com/mussier/azure-uamqp-c.git
-	branch = enable_gcc4.4
